@@ -1,2 +1,2 @@
-# Credit_reist_Analysis
+# Credit_Risk_Analysis
 Module 17
